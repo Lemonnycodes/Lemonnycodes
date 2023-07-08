@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Swathi!! and I'm thrilled to have you visit my GitHub profile.</h1>
 <h3 align="center">Developer | Open Source Enthusiast | Tech Explorer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemonlylines" alt="lemonlylines" /></a> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
 
