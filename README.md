@@ -2,7 +2,7 @@
 <h3 align="center">Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 
-🌱 Currently, I am focusing on **MERN STACK**
+🌱 Currently, I am focusing on **MERN STACK**, **Power BI**
 
 
 🔮 Muggle by day, Wizard by code, casting spells with the precision of a Lumos Maxima incantation.
