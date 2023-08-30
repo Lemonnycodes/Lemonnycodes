@@ -1,14 +1,14 @@
 <h1 align="center">👋Hello ,I'm Swathi!!</h1>
-<h3 align="center">Developer | Tech Explorer</h3>
+<h3 align="center">Developer | Tech Explorer  </h3>
 
 
 🌱 Currently, I am focusing on **MERN STACK**, **Power BI**
 
 
-🔮 Muggle by day, Wizard by code, casting spells with the precision of a Lumos Maxima incantation.
+🔮 Muggle by day, Wizard by code, casting code spells with the precision of a Lumos Maxima incantation.
 
 
-✨ Remember, the magic is in the code, and the possibilities are limitless.
+✨ Remember, the magic is in the code!
 
 
 <h3 align="left">Connect with me:</h3>
