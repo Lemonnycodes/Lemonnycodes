@@ -5,7 +5,7 @@
 🌱 Currently, I am focusing on **MERN STACK**, **Power BI**
 
 
-🔮 Muggle by day, Wizard by code, casting code spells with the precision of a Lumos Maxima incantation.
+🔮 Muggle by day, Wizard by code, casting code spells with the precision of  Lumos Maxima incantation.
 
 
 ✨ Remember, the magic is in the code!
