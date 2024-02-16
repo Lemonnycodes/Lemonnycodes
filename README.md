@@ -2,7 +2,7 @@
 <h3 align="center">Developer | Tech Enthusiast  </h3>
 
 
-🌱 Currently, I am focusing on **AWS**, **Power BI**
+🌱 Currently, I am focusing on **AWS** and **Data visualization through Power BI**
 
 
 🔮 Muggle by day, Wizard by code, casting code spells with the precision of  Lumos Maxima incantation.
