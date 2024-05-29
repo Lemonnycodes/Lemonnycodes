@@ -70,9 +70,4 @@
   </a>
 </div>
 
-###
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Lemonnycodes/Lemonnycodes/output/snake.svg" alt="Snake animation" />
-
-###
