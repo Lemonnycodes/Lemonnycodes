@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Swathi Dharma Sankaran and I'm a Developer and Tech Enthusiast from Fremont, CA.</h2>
+<h2 align="left">Hi 👋! My name is Swathi</h2>
 
 ###
 
