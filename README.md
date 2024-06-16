@@ -3,6 +3,7 @@
 ###
 
 <h5 align="left">✨ Muggle by day but I cast code spells with the precision of Lumos Maxima incantation.</h5>
+A passionate developer on the lookout for the next big thing. I'm all about clean code, design patterns, and building software that's both efficient and easy to maintain.
 
 ###
 
