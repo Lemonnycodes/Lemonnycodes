@@ -51,6 +51,7 @@ Hey there, I am Swathi, a passionate developer always on the lookout for the nex
 
 ### Github Stats
 ![lemonnycodes' GitHub stats](https://github-stats-alpha.vercel.app/api?username=lemonnycodes)
+![lemonnycodes' GitHub stats]https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lemonnycodes
 
 
 ---
