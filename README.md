@@ -1,4 +1,4 @@
-# SWATHI DHARMA SANKARAN 
+
 ✨ Muggle by day but I cast code spells with the precision of Lumos Maxima incantation.
 
 Hey there, I am Swathi, a passionate developer always on the lookout for the next big thing. For me, It's all about creating experiences,making a whole new magical realmn and not just about writing the perfect code. And that's what keeps me coming back for more, day after day. I would be lying if I said squashing bugs doesn't make me happy! XD
