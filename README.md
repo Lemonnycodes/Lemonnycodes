@@ -48,7 +48,8 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 
 ### Github Stats
-https://github-stats-alpha.vercel.app/api?username=lemonnycodes
+![lemonnycodes' GitHub stats](https://github-stats-alpha.vercel.app/api?username=lemonnycodes)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lemonnycodes&icon=0&color=0)](https://visitcount.itsvg.in)
