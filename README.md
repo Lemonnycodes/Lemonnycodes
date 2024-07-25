@@ -50,8 +50,9 @@ Hey there, I am Swathi, a passionate developer always on the lookout for the nex
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 
 ### Github Stats
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemonnycodes)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemonnycodes)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemonnycodes)
+
 ![lemonnycodes' GitHub stats](https://github-stats-alpha.vercel.app/api?username=lemonnycodes)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lemonnycodes)
 
