@@ -3,6 +3,8 @@
 👻 Ask me about: MERN Stack
 🌱 Currently learning: Generative AI
 
+![SWATHI](https://github-readme-quotes-bay.vercel.app/quote?theme=default_repocard&animation=grow_out_in&layout=zues&font=Architect&fontColor=purple&bgColor=black)
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swathidharmasankaran/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@swathidsankaran)
@@ -46,13 +48,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=lemonnycodes&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=lemonnycodes&theme=midnight-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonnycodes&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lemonnycodes&icon=0&color=0)](https://visitcount.itsvg.in)
