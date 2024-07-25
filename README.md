@@ -1,8 +1,11 @@
 # 💫About Me :
 ✨ Muggle by day but I cast code spells with the precision of Lumos Maxima incantation.
 
-👻 Ask me about : MERN Stack 
-🌱 Currently learning : Gen AI
+### 👻 Ask me about
+- MERN Stack
+
+### 🌱 Currently learning
+- Generative AI
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swathidharmasankaran/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@swathidsankaran) 
