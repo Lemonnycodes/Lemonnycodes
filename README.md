@@ -1,5 +1,5 @@
 
-✨ Muggle by day but I cast code spells with the precision of Lumos Maxima incantation.
+✨ My pull request? It’s not Levio-sa, it’s Levio-soon-to-be-merged..
 
 Welcome to my GitHub! I'm Swathi, a developer who loves dreaming up new possibilities and turning them into reality. 
 
