@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm Swathi, a developer who loves dreaming up new possibil
 
 I thrive on solo coding sessions, but also enjoy collaborating with others, sharing ideas, and finding the best solutions together. Design patterns are my thing, and I take pride in crafting quality software. Every bug I squash and every feature I implement feels like a victory, motivating me to keep improving.
 
-When I'm not coding, you'll likely find me reading fiction, exploring new stories and worlds.
+Beyond the lines of code, I am probably lost in reading fiction.
 
 Feel free to explore my repositories, contribute, or just drop a message. Let’s connect and see what we can build together!
 
